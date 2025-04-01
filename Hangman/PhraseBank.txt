@@ -1,0 +1,5 @@
+/* Nirajan Pokharel 1002068164 */
+char *PhraseBank[] = {"Nepal is a beautiful country","Burn it down", "Summer is here",
+                 "You can do it", "let's goo!!", "I am 39 years old.",
+				 "let's Play Football", "Hello, Aayu. What's up?",
+				 "you're looking in the wrong place", "lets go somewhere far from here", ""};
